@@ -1,5 +1,15 @@
 # Changelog
 
+## [2025.7.33](https://github.com/jdx/mise/compare/v2025.7.32..v2025.7.33) - 2025-07-31
+
+### 🚀 Features
+
+- **(registry)** use npm backend for yarn by [@mrazauskas](https://github.com/mrazauskas) in [#5745](https://github.com/jdx/mise/pull/5745)
+
+### 🐛 Bug Fixes
+
+- **(go)** implement heuristic-based go module find logic by [@risu729](https://github.com/risu729) in [#5851](https://github.com/jdx/mise/pull/5851)
+
 ## [2025.7.32](https://github.com/jdx/mise/compare/v2025.7.31..v2025.7.32) - 2025-07-31
 
 ### 🚀 Features
